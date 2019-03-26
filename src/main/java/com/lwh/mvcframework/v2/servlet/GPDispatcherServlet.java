@@ -107,6 +107,9 @@ public class GPDispatcherServlet extends HttpServlet {
         initHandlerMapping();
 
         System.out.println("GP Spring framework is init.");
+//        git remote add origin https://github.com/liweiheng/mySqring.git
+
+//        git push -u -f origin master
 
     }
 
